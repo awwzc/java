@@ -15,7 +15,7 @@ public class TestIo {
 			out.write(1023);
 			out.write(1023);
 			out.close();
-			//in.close();
+			
 		} catch (IOException e) {
 			// TODO Auto-generated catch block
 			e.printStackTrace();
